@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringidApplication<springid>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.trainee.springid.SpringidApplication",
+      "projectName": "springid",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
